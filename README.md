@@ -25,7 +25,7 @@ Este projeto fornece uma biblioteca C/C++ para controlar o rádio transceptor Lo
 -   **✅ Exemplo de Transmissor (TX):** Envia uma mensagem com um contador que se incrementa a cada 5 segundos, exibindo o pacote enviado em um display OLED local.
 -   **✅ Exemplo de Receptor (RX):** Fica em modo de escuta contínua. Ao receber um pacote, exibe a mensagem, o RSSI (Indicador de Força do Sinal Recebido) e o SNR (Relação Sinal-Ruído) no display OLED e no terminal serial.
 -   **✅ Integração com Display OLED:** Ambos os exemplos utilizam um display SSD1306 para fornecer feedback visual em tempo real, tornando o sistema autônomo e fácil de monitorar.
--   **✅ Configuração para 915 MHz:** A biblioteca está pré-configurada para operar na faixa de frequência de 915 MHz, comum nas Américas.
+-   **✅ Configuração para 915 MHz:** A biblioteca está pré-configurada para operar na faixa de frequência de 915 MHz.
 
 
 ### ⚙ Hardware Necessário (para 1 par TX/RX)
