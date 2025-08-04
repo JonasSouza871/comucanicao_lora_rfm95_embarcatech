@@ -118,7 +118,6 @@ cp lora_rx.uf2 /media/user/RPI-RP2
 ├── lora_tx.c           # Código fonte do Transmissor
 └── README.md
 ```
-*(Estrutura baseada na imagem fornecida.)*
 
 ---
 
